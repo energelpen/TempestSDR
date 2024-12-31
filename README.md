@@ -8,8 +8,6 @@ This executable package is based on the efforts of [martinmarinov](https://githu
 
 ---
 
-## Usage Instructions
-
 # TempestSDR
 
 **TempestSDR_win32_executables** is a folder containing a self-executable version of [TempestSDR by martinmarinov](https://github.com/martinmarinov/TempestSDR) for Windows. This package integrates ExtIO support for multiple SDRs, including RTL-SDR, HackRF, SDRplay, and Airspy. Run the executable which corresponds to the SDR you are using.
